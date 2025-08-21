@@ -1,5 +1,5 @@
 # C-lab
-Why Learn C++?
+#Why Learn C++?
 
 C++ is a powerful, versatile programming language that blends both low-level and high-level features. This combination makes it highly efficient and widely applicable across many domains. Here’s why learning C++ is a great choice:
 
@@ -13,13 +13,13 @@ C++ is everywhere — from system programming and embedded devices to game devel
 
 Writing C++ code enhances your logical and analytical thinking, key skills for real-world projects and interviews.
 
-About This Repository
+#About This Repository
 
 This collection of C++ programs is designed for learners at different stages — starting with the basics and moving towards intermediate problem-solving. Every program is explained clearly and simply so beginners can follow along and practice confidently.
 
 How the Programs Are Organized
 
-Basic Level:
+#Basic Level:
 
 Hello World and Calculator programs
 
@@ -29,7 +29,7 @@ Decision-making with if/else and switch statements
 
 Loops: do-while and while
 
-Intermediate Level:
+#Intermediate Level:
 
 Arrays and Strings
 
@@ -37,18 +37,18 @@ Bitwise Operations
 
 Matrix Programs
 
-Program Study:
+#Program Study:
 
 Understanding and implementing C++ program structures
 
-Program Structure: AIM – THEORY – ALGORITHM – CONCLUSION
+#Program Structure: AIM – THEORY – ALGORITHM – CONCLUSION
 
 To help learners grasp concepts effectively, each program is broken down into four parts:
 
-AIM: The goal or objective of the program (e.g., “To add two matrices”).
+#AIM: The goal or objective of the program (e.g., “To add two matrices”).
 
-THEORY: The underlying concept or principle (e.g., “Matrix addition involves adding corresponding elements”).
+#THEORY: The underlying concept or principle (e.g., “Matrix addition involves adding corresponding elements”).
 
-ALGORITHM: Step-by-step instructions on how the program works.
+#ALGORITHM: Step-by-step instructions on how the program works.
 
-CONCLUSION: A short summary explaining what was achieved or learned.
+#CONCLUSION: A short summary explaining what was achieved or learned.
