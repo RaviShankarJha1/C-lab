@@ -1,0 +1,46 @@
+
+#include <iostream>
+using namespace std;
+class calcistheshortformforcalculatorchat
+{
+    public:
+    int number1;
+    int number2;
+    
+    void Add(int number1, int number2)
+    {
+        int add;
+        add=number1+number2;
+        cout<<"Addition: "<<add<<endl;
+    }
+    void Sub(int number1, int number2)
+    {
+        int sub;
+        sub=number1-number2;
+        cout<<"Substraction: "<<sub<<endl;
+    }
+    void mul(int number1, int number2)
+    {
+        int mul;
+        mul=number1*number2;
+        cout<<"Multiplication: "<<mul<<endl;
+    }
+    void Div(int number1, int number2)
+    {
+        float divi;
+        divi=number1/number2;
+        cout<<"Division: "<<divi<<endl;
+    }
+    
+};
+
+int main() {
+    calcistheshortformforcalculatorchat r1;
+    r1.number1=2;
+    r1.number2=12500;
+    r1.Add(r1.number1,r1.number2);
+    r1.Sub(r1.number1,r1.number2);
+    r1.mul(r1.number1,r1.number2);
+    r1.Div(r1.number1,r1.number2);
+    return 0;
+}
